@@ -1,0 +1,19 @@
+.copybox {
+    width: 100%;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.copycontain {
+    padding: 10px;
+    background-color: aqua;
+    width: 80%;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
