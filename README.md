@@ -128,22 +128,35 @@ Code Explanation: Code in home Folder
 
 ---
 
-Code Explanation: Code in tools Folder
-
-1. Fun Mini Projects
-2. Based on Discoveries by Aaryabhata
-3. A main.html file to handle all tools
-4. A tools.css file to handle all Only Tool CSS
-5. A tools.js file to handle all Only Tool JS and Calculations
-6. 4 mini, fun and real application based games/projects
-7. Code in HTML, CSS and JS Format
-8. All the Code for the tools above is written by: Aarush Mehta (Developer)
-
----
-
 Code Explanation: Code in Video's Section
 
 1. Two Types of Video's Available
 2. Code in HTML and CSS Format
 3. Type 1: -laad.html ( Stands for: Learn About Aaryabhata's Discoveries )
 4. Type 2: -laa.html ( Stands for: Learn About Aaryabhata )
+
+---
+
+Code Explaination: Code in loader Section
+
+1. Contains A Loader File That Loads Whenever Clicked on Links
+2. Contains: HTML, CSS and JS Files
+
+---
+
+Code Explaination: Code in Web Folder
+
+1. Contains: HTML CSS AND JS FILES
+2. No Redirects. Only Web View's ( iFrame )
+3. Content from 4 Different Websites
+
+---
+
+Other Free Files:
+
+1. licence
+2. readme
+
+---
+
+Thank You.. A Project By Aarush Mehta ( aka. Codec07 )
